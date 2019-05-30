@@ -1,0 +1,11 @@
+Package: com.rango.bubble
+Name: Bubble
+Depends: com.anemonetheming.anemone
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Smooth Gradients and Translucence.
+Maintainer: Rango
+Author: Yung Specht
+Section: Themes
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.bubble
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.bubble/depiction.json
